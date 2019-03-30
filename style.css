@@ -1,0 +1,138 @@
+body{
+	background: #18171C;
+	color: white;
+	font-family: arial;
+	font-size: 120%;
+}
+
+
+.flex{
+	display: flex;
+}
+.header{
+	height: 180px;
+	background: black;
+	color: white;
+
+}
+.a1{
+	text-decoration: none;
+	color: white;
+	font-size: 140%;
+	margin-left: 30px;
+	margin-top: 65px;
+}
+
+.img40{
+	width: 40%;
+}
+.img50{
+	width: 50%;
+}
+.img100{
+	width: 100%;
+}
+
+.banner{
+	background-image: url(images/banner.jpg);
+	height: 600px;
+	background-size: 100%;
+	margin-top: -40px;
+	padding-top: 50px;
+}
+.p1{
+	width: 600px;
+	font-size: 120%;
+	background: rgb(0,0,0,0.4);
+	margin-left: 50px; 
+	padding: 10px;
+}
+.p2{
+	width: 600px;
+	font-size: 120%;
+	background: rgb(0,0,0,0.4);
+	margin-left: auto; 
+	margin-top: 350px;
+	padding: 10px;
+}
+
+.story{
+	width: 1000px;
+	padding-bottom: 20px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.story img{
+	margin-top: 30px;
+}
+.p3{
+	width: 600px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.newnews{
+	width: 900px;
+	margin-left: auto;
+	margin-top: 20px;
+}
+.news{
+	margin-top: 30px;
+}
+.n{
+	background: #0A0A1A;
+	height: 300px;
+	width: 400px;
+	border: solid black 2px;
+	margin-right: auto;
+	margin-left: auto;
+}
+.n img{
+	height: 230px;
+}
+.n p{
+	margin-right: auto;
+	margin-left: auto;
+	width: 90%;
+	font-size: 
+}
+
+.c{
+	width: 1200px;
+	margin-left: auto;
+	margin-top: 50px;
+
+
+}
+.c img{
+	width: 450px;
+}
+.career{
+	width: 1000px;
+}
+
+.podval{
+	height: 20px;
+	background: black;
+	color: gray;
+	padding: 10px;
+	padding-left: 20px;
+	margin-top: 30px;
+}
+
+
+.novosti{
+	text-align: center;
+	font-family: geneva;
+}
+
+.icon{
+	width: 55px;
+	margin-top: 10px;
+	margin-right: 10px;
+}
+.novs{
+	border: solid black 2px;
+	padding: -5px;
+	margin-top: 10px;
+}
